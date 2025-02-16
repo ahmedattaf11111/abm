@@ -1,5 +1,4 @@
 <?php
-// filepath: /d:/my cv projects/schefuld/laravel-blade-schefuld/app/Http/Controllers/AuthController.php
 
 namespace App\Http\Controllers;
 
